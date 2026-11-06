@@ -3,7 +3,20 @@
 ## MAST5112
 
 ### Purpose of The App
-Stay tuned for POE(Part 3) for this to be completed!
+Nourriture is a restaurant menu management app that helps a restaurant owner add, view, edit, and delete menu items. Each item has a name, course, price, and description. The app also makes it easy to find items and view a summary of the menu.
+
+Menu items are saved on the device so they are available when the app is reopened. They are not synced between devices or backed up online.
+
+### Change Log
+- Added the ability to edit existing items and delete them with a confirmation.
+- Added case-insensitive search by item name and filtering by course, with options to clear the search and filters.
+- Added a menu overview showing the total number of items, average price, and number of items in each course.
+- Added on-device storage so menu items remain available after restarting the app, with error messages and retry options for storage problems.
+- Improved form validation and feedback with specific messages for missing or invalid fields.
+- Improved accessibility with labels for form fields and expanded states for course menus.
+- Made the menu screen scrollable while keeping the **Add new item** button at the bottom of the screen.
+- Corrected the course name from **Desert** to **Dessert** and made course labels consistent across screens.
+
 ### Reference List
 The Independant Institute of Education, 2026. Mobile App Scripting [MAST5112]. nt. [online via sharepoint] The Independant Institute of Education. Available at: https://advtechonline.sharepoint.com/sites/TertiaryStudents/IIE%20Student%20Materials/Forms/Default%20View.aspx?id=%2Fsites%2FTertiaryStudents%2FIIE%20Student%20Materials%2FNew%20Student%20Materials%20CAT%2FIMAD5112w%2F2026%2FTerm%201&viewid=db15e059%2D4f93%2D487f%2Dabda%2De538b821c7b8 [Accessed Date 8 September 2026]
 
